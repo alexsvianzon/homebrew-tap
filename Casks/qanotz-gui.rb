@@ -7,5 +7,5 @@ cask "qanotz-gui" do
   desc "Simple note taking app"
   homepage "https://github.com/alexsvianzon/qanotz/"
 
-  app "QANotz.app"
+  app "QANotz-macos.app"
 end

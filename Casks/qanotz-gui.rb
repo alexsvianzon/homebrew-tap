@@ -5,7 +5,7 @@ cask "qanotz-gui" do
   url "https://github.com/alexsvianzon/qanotz/releases/download/#{version}/QANotz-macos-#{version}.zip"
   name "QANotz"
   desc "Simple note taking app"
-  homepage "https://alexsvianzon.github.io/qanotz/"
+  homepage "https://github.com/alexsvianzon/qanotz/"
 
   app "QANotz.app"
 end
